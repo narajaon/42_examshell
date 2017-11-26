@@ -1,6 +1,5 @@
 #ifndef RPN_H
 #define RPN_H
-
 # include <stdio.h>
 # include <stdlib.h>
 # define NBR(x) printf(#x "= |%d|\n", x)
